@@ -1,2 +1,2 @@
 # isibangculturalcommittee.github.io
-ISI Bangalore Cultural Committee Website
+Stay tuned, the website will be deployed shortly
